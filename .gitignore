@@ -1,0 +1,8 @@
+.DS_Store
+*.dsYM
+*.swp
+
+*.class
+*.in
+*.out
+*.txt

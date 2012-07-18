@@ -1,5 +1,5 @@
 // Problem F -- Merge
-// Author: Xiaoxu Guo
+// Author: Bin Jin
 #include <vector>
 #include <list>
 #include <map>

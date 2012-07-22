@@ -1,5 +1,3 @@
-// Problem A -- You’re in the Army Now
-// Author: Jingbo Shang
 #include <cstdio>
 #include <cstring>
 #include <cstdlib>

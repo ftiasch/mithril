@@ -1,5 +1,3 @@
-// Problem E -- Yet Another Game with Words
-// Author: Xiaoxu Guo
 #include <cstdio>
 #include <cstring>
 #include <string>

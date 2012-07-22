@@ -1,5 +1,3 @@
-// Problem J -- Orcish Transportation
-// Author: Jingbo Shang
 #include <cstdio>
 #include <cstring>
 #include <cstdlib>

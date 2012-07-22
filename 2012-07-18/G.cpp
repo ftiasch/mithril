@@ -1,5 +1,3 @@
-// Problem G -- The Most Relevant Pattern   
-// Author: Xiaoxu Guo
 #include <cstdio>
 #include <cstring>
 #include <vector>

@@ -1,5 +1,3 @@
-// Problem C -- Ballistic
-// Author: Bin Jin
 import java.util.*;
 import java.math.*;
 

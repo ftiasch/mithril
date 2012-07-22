@@ -1,5 +1,3 @@
-// Problem K -- Parse Tree
-// Author: Bin Jin
 #include <vector>
 #include <list>
 #include <map>

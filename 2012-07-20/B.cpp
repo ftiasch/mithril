@@ -1,5 +1,3 @@
-// Problem B -- Minimal Matrix
-// Author: Bin Jin
 #include <vector>
 #include <list>
 #include <map>

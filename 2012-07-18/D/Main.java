@@ -1,5 +1,3 @@
-// Problem D -- Discussions
-// Author: Bin Jin
 import java.util.*;
 import java.math.*;
 

@@ -1,5 +1,3 @@
-// Problem C -- Convex Hull
-// Author: Xiaoxu Guo
 #include <cmath>
 #include <cstdio>
 #include <vector>

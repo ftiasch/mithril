@@ -1,5 +1,3 @@
-// Problem E -- Points and Lines
-// Author: Bin Jin
 #include <vector>
 #include <list>
 #include <map>

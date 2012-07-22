@@ -1,5 +1,3 @@
-// Problem H -- Straight or Flush
-// Author: Bin Jin
 import java.util.*;
 import java.math.*;
 

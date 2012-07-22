@@ -1,5 +1,3 @@
-// Problem I -- Triangular Tiling
-// Author: Bin Jin
 import java.util.*;
 import java.io.*;
 

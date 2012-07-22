@@ -1,5 +1,3 @@
-// Problem A -- Graph Theory
-// Author: Xiaoxu Guo
 #include <cstdio>
 #include <cstring>
 using namespace std;

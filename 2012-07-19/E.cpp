@@ -1,5 +1,3 @@
-// Problem E -- Creeping
-// Author: Jingbo Shang
 #include <cstdio>
 #include <cstdlib>
 #include <cstring>

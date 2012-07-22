@@ -1,5 +1,3 @@
-// Problem D -- Castle
-// Author: Xiaoxu Guo
 #include <cstdio>
 #include <cstring>
 #include <vector>

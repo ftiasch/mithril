@@ -1,5 +1,3 @@
-// Problem C -- Ballistic
-// Author: Xiaoxu Guo
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;

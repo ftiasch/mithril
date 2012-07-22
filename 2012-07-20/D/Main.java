@@ -1,5 +1,3 @@
-// Problem D -- Avoiding Partitions
-// Author: Jingbo Shang
 import java.io.*;
 import java.util.*;
 import java.math.*;

@@ -1,5 +1,3 @@
-// Problem C -- Nothing on TV
-// Author: Xiaoxu Guo
 #include <cmath>
 #include <cstdio>
 #include <cstring>

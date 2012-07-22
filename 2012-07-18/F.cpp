@@ -1,5 +1,3 @@
-// Problem F -- Merge
-// Author: Bin Jin
 #include <vector>
 #include <list>
 #include <map>

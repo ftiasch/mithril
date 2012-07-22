@@ -1,5 +1,3 @@
-// Problem I -- No Term Repetition Exactly One Satisfiability
-// Author: Xiaoxu Guo
 #include <cstdio>
 #include <cstring>
 #include <climits>

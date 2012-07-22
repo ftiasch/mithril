@@ -1,5 +1,3 @@
-// Problem I -- Spell
-// Author: Xiaoxu Guo
 #include <cstdio>
 #include <cstring>
 #include <iostream>

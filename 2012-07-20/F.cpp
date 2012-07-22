@@ -1,5 +1,3 @@
-// Problems F -- Reversing Prefixes
-// Author: Xiaoxu Guo
 #include <cstdio>
 #include <cstring>
 using namespace std;

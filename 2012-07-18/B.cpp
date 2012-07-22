@@ -1,5 +1,3 @@
-// Problem B -- Chip Reconstruction 
-// Author: Xiaoxu Guo
 #include <cstdio>
 #include <cstring>
 #include <vector>

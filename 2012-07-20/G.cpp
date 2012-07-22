@@ -1,5 +1,3 @@
-// Problem G -- Inverse Range Minimum Query
-// Author: Xiaoxu Guo
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

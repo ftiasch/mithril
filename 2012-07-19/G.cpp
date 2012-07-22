@@ -1,5 +1,3 @@
-// Problem G -- Princess
-// Author: Bin Jin
 #include <vector>
 #include <list>
 #include <map>

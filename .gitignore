@@ -7,30 +7,6 @@
 *.out
 *.txt
 
-A
-B
-C
-D
-E
-F
-G
-H
-I
-J
-K
-L
-M
+[A-N]
 
-!A/
-!B/
-!C/
-!D/
-!E/
-!F/
-!G/
-!H/
-!I/
-!J/
-!K/
-!L/
-!M/
+![A-N]/

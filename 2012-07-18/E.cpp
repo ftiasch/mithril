@@ -62,18 +62,18 @@ int main() {
             if (segments[i].begin + segments[i].length < words[segments[i].sid].length() && !win[id[segments[i].sid][segments[i].begin][segments[i].length + 1]]) {
                 win[begin] = true;
             }
-    	    if (segments[i].length==words[segments[i].sid].length()){
-    	        win[begin] = true;
-    	    }
+            if (segments[i].length==words[segments[i].sid].length()){
+                win[begin] = true;
+            }
         }
         if (segments[begin].length == 1 && !win[begin]) {
             result.push_back(words[segments[begin].sid][segments[begin].begin]);
         }
         begin = end - 1;
     }
-/*for (size_t i = 0; i < segments.size(); ++ i) {
-    printf("%d, %d, %d, %d\n", segments[i].sid, segments[i].begin, segments[i].length, (int)win[i]);
-}*/
+    /*for (size_t i = 0; i < segments.size(); ++ i) {
+      printf("%d, %d, %d, %d\n", segments[i].sid, segments[i].begin, segments[i].length, (int)win[i]);
+      }*/
     sort(result.begin(), result.end());
     result.erase(unique(result.begin(), result.end()), result.end());
     if (result.empty()) {

@@ -90,7 +90,7 @@ int main() {
         int f = s.f;
         int mask = s.mask;
         int v = step[x][y][f][mask];
-//printf("%d %d %d %d:	%d\n",x,y,f,mask,v);
+//printf("%d %d %d %d:  %d\n",x,y,f,mask,v);
         if (map[x][y] == '&') {
             result = min(result, v);
         }

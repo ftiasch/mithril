@@ -43,11 +43,11 @@ int main() {
         vector <string> answer;
         for (int i = 0; i < m; ++ i) {
             char s1[100],s2[100];
-			string name="";
-			scanf("%s%s",s1,s2);
-			name=s1;
-			name+=" ";
-			name+=s2;
+            string name="";
+            scanf("%s%s",s1,s2);
+            name=s1;
+            name+=" ";
+            name+=s2;
             if (need[name] > 0) {
                 need[name] --;
                 answer.push_back(name);

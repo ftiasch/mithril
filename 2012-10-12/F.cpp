@@ -219,8 +219,8 @@ IfSt *parseIf()
     assert(parameterMap.count(token));
     ret->condition = parameterMap[token];
     ret->left = parse();
-    token = nextToken();
-    assert(token == "else");
+    assert(strncmp(input + ptr, "else", 4) == 0);
+    ptr += 4;
     ret->right = parse();
     return ret;
 }
